@@ -1,6 +1,6 @@
 # Algorithm-LeetCode
- 
- Study Javascript Algorithm Questions
+
+Study Javascript Algorithm Questions
 
 ## Summary
 
@@ -12,3 +12,5 @@ Questions have been chosen from ["Curated List of Top 75 LeetCode Questions"](ht
 
 ### 1. Array
 
+- Two Sum:
+  - Question:

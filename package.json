@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-LeetCode",
+  "version": "1.0.0",
+  "repository": "https://github.com/Min5407/algorithm-LeetCode.git",
+  "author": "고민영 <gym5407@ucomp.co.kr>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "jest": "^27.4.5"
+  }
+}
