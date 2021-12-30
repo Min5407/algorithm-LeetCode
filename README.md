@@ -13,4 +13,5 @@ Questions have been chosen from ["Curated List of Top 75 LeetCode Questions"](ht
 ### 1. Array
 
 - Two Sum:
-  - Question:
+  - [Question](https://leetcode.com/problems/two-sum/)
+  - [Answer](https://github.com/Min5407/algorithm-LeetCode/tree/main/array/twoSum)
